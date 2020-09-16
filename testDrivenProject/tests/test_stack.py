@@ -1,4 +1,4 @@
-from src.stack import Stack
+from ..src.stack import Stack
 
 
 def test_constructor():
